@@ -16,9 +16,9 @@
 
 > **Disclaimer:** This code is presented for educational purposes. For production environments, ensure that you have conducted a thorough security review and implemented best practices for key management, tamper detection, and environment-specific compliance requirements.
 
-## 🚀 Give this Project a Star
+## ⭐ Support the Project
 
-If you found this library useful or would like to support it, please consider giving it a star on GitHub! Your support helps improve and maintain the project. Thank you! 🌟
+If you find this library helpful, please consider giving it a star on GitHub. Your support helps improve and maintain the project. Thank you! 🌟
 
 ---
 
@@ -26,6 +26,8 @@ If you found this library useful or would like to support it, please consider gi
 - [Features](#features)
 - [Installation](#installation)
 - [Usage](#usage)
+  - [Basic Example](#basic-example)
+  - [URL-safe Base64 Example](#url-safe-base64-example)
 - [Contributing](#contributing)
 - [License](#license)
 
@@ -46,7 +48,7 @@ You can install the `Obscura` library using [Composer](https://getcomposer.org/)
 composer require ramazancetinkaya/ObscuraCrypt
 ```
 
-This will automatically add the entry to your composer.json and install the library under the vendor/ directory.
+This command adds the library to your composer.json and installs it in the vendor/ directory.
 
 ## Usage
 
