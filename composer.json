@@ -1,5 +1,5 @@
 {
-    "name": "ramazancetinkaya/Obscura",
+    "name": "ramazancetinkaya/obscura",
     "description": "A multi-round polynomial-based encryption layer on top of AES-256 for enhanced security, without requiring GMP.",
     "type": "library",
     "keywords": [
