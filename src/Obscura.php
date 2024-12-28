@@ -12,7 +12,7 @@
  * @author    Ramazan Çetinkaya
  * @license   https://opensource.org/licenses/MIT MIT License
  * @version   1.0.0
- * @link      https://github.com/ramazancetinkaya/ObscuraCrypt
+ * @link      https://github.com/ramazancetinkaya/Obscura
  */
 
 declare(strict_types=1);
