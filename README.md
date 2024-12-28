@@ -45,7 +45,7 @@ If you find this library helpful, please consider giving it a star on GitHub. Yo
 You can install the `Obscura` library using [Composer](https://getcomposer.org/). Run the following command in your terminal:
 
 ```bash
-composer require ramazancetinkaya/ObscuraCrypt
+composer require ramazancetinkaya/Obscura
 ```
 
 This command adds the library to your composer.json and installs it in the vendor/ directory.
